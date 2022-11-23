@@ -1,16 +1,8 @@
 {
   "books": [
     {
-      "title": "Frank Pitkat Jr",
-      "id": 1
-    },
-    {
       "title": "Frank",
-      "id": 2
-    },
-    {
-      "title": "Erika",
-      "id": 3
+      "id": 1
     }
   ]
 }
