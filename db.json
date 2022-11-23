@@ -1,12 +1,8 @@
 {
   "books": [
     {
-      "title": "Frank Pitkat",
+      "title": "Frank Pitkat Jr.",
       "id": 1
-    },
-    {
-      "title": "harry potter",
-      "id": 2
     }
   ]
 }
