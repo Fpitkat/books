@@ -9,6 +9,7 @@ function App() {
   // Gets called on first load
   useEffect(() => {
     fetchBooks()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
   return (
